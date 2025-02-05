@@ -1,0 +1,44 @@
+# Projeto 4 - Augmented Analytics com Inteligência Artificial e LLMs
+
+# Instruções:
+
+# 1- faça o clone do repositorio.
+
+# 2- crie um arquivo .env e adicione a linha abaixo incluindo sua chave API da OpenAI 
+
+OPENAI_API_KEY=your_openai_api_key
+
+# 3- Abra o terminal ou prompt de comando, navegue até a pasta com os arquivos e ative um ambiente virtual com os comandos abaixo:
+
+python -m venv silvenv
+source silvenv/bin/activate
+
+# Obs: No Windows use `silvenv\Scripts\activate`
+
+# 4- Instale os requerimentos:
+
+pip install -r requirements.txt
+
+# 5- Execute a app:
+
+python app.py
+
+# 6- Abra o navegador e acesse http://127.0.0.1:5000
+
+# 7- Faça perguntas relacionadas a base de dados usada pelo LLM:
+
+Quais as Principais Responsabilidades de um especialista em IA e ML?
+
+O que um especialista em IA e ML faz na etapa de Coleta e Processamento de Dados?
+
+Qual as duas principais profissões do futuro?
+
+Quais as profissões com escassez de Mão de obra atualmente?
+
+# 8- Quando concluir, desative o ambiente virtual:
+
+deactivate
+
+
+
+
